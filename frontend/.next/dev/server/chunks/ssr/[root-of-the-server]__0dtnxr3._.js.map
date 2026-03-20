@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/stmarys-app/frontend/app/page.jsx"],"sourcesContent":["export default function Homepage() {\r\n    return (\r\n        <div>\r\n            <h1>Welcome to the Homepage</h1>\r\n        </div>\r\n    );\r\n}\r\n"],"names":["Homepage"],"mappings":";;;;;;AAAe,SAASA;IACpB,qBACI,8OAAC;kBACG,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGhB"}}]
+}
